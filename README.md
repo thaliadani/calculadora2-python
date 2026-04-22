@@ -40,7 +40,7 @@ O programa aceita os seguintes comandos de operação:
 2. Salve o código em um arquivo `calculadora_interativa.py`.
 3. No terminal, execute:
    ```bash
-   python calculador.py
+   python calculadora.py
    ```
 
 ---
