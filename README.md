@@ -1,7 +1,3 @@
-Aqui está uma sugestão de **README.md** para o seu projeto de calculadora interativa, destacando o uso de funções e o laço de repetição contínuo.
-
----
-
 # 🧮 Calculadora Interativa em Python
 
 Este é um projeto de uma calculadora funcional que opera via terminal. Diferente de versões simples, esta versão utiliza um laço de repetição (`while`) que permite ao usuário realizar múltiplos cálculos sem precisar reiniciar o programa manualmente.
